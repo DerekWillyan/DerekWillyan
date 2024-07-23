@@ -1,3 +1,5 @@
+![Banner Arraiá de Ofertas Laranja e Amarelo](https://github.com/user-attachments/assets/b539ed4c-7f03-4a83-9175-fa4b31489e41)
+
 ## Bem-vindo ao meu perfl 👋
 ## Sobre Mim
 Olá! Meu nome é Derek Willyan e sou um Analista de Dados Júnior apaixonado por tecnologia e inovação. Tenho formação em Análise e Desenvolvimento de Sistemas e uma pós-graduação em Ciência de Dados. Atualmente, estou em busca do meu primeiro emprego na área, onde espero aplicar e expandir meus conhecimentos e habilidades.
