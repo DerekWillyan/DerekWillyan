@@ -41,15 +41,13 @@ Olá! Sou **Derek Willyan**, Analista de Dados Júnior com uma paixão por tecno
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
 - **Pentaho, Tableau, Power BI**
 
-
-## 🚀 Projetos Recentes
-
-### Transformação de Dados JSON para SQL
-Desenvolvi um **script em Python** que converte dados JSON para uma estrutura de tabelas SQL. O script oferece uma interface para o usuário inserir o local do dataset e as informações de conexão com o banco de dados. Além disso, integra **inteligência artificial** com a biblioteca **scikit-learn** para aprimorar a análise de dados.
-
 ## 📬 Contato
-- **E-mail:** [willyanderek42@gmail.com](mailto:willyanderek42@gmail.com)
-- **LinkedIn:** [linkedin.com/in/derekwillyandev](https://www.linkedin.com/in/derekwillyandev)
-- **GitHub:** [github.com/DerekWillyan](https://www.github.com/DerekWillyan)
+<a href="willyanderek@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=willyanderek@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/derekwillyandev/" alt="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekwillyandev/" /></a>
+<a href="https://www.instagram.com/derekwillyan17/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/derekwillyan17/"/></a>
 
+----
 Estou sempre disposto a aprender e colaborar em projetos interessantes. Sinta-se à vontade para entrar em contato!
