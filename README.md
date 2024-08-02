@@ -1,5 +1,4 @@
-![Banner Arraiá de Ofertas Laranja e Amarelo](https://github.com/user-attachments/assets/b539ed4c-7f03-4a83-9175-fa4b31489e41)
-
+![banner](https://github.com/user-attachments/assets/6da28f26-5e29-484c-a413-50247d1f6e45)
 # Olá! 👋 Bem-vindo ao meu perfil
 
 ## Sobre Mim
