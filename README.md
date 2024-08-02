@@ -8,16 +8,13 @@ Olá! Sou **Derek Willyan**, Analista de Dados Júnior com uma paixão por tecno
 ## 🛠️ Habilidades Técnicas
 
 ### Linguagens de Programação
-
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cs,scala)](https://skillicons.dev)
 
 
 ### Desenvolvimento Web
-
 [![My Skills](https://skillicons.dev/icons?i=html,javascript,css,bootstrap,php,django,asp)](https://skillicons.dev)
 
 ### Banco de Dados
-
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 ### Ciência de Dados
@@ -34,11 +31,13 @@ Olá! Sou **Derek Willyan**, Analista de Dados Júnior com uma paixão por tecno
 
 ### Ferramentas e IDEs
 [![My Skills](https://skillicons.dev/icons?i=github,webstorm,idea,pycharm,grafana)](https://skillicons.dev)
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/>
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/>
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/>
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
+
+<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/></code>
+<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></code>
+<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
+<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code>
+
 - **Pentaho, Tableau, Power BI**
 
 ## 📬 Contato
